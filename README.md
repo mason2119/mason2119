@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%20%2F%20HiveQL-4479A1?logo=mysql&logoColor=white)
 
-[**在线作品集**](https://mason2119.github.io) ｜ [简历](#) ｜ 3384144812@qq.com
+[**在线作品集**](https://mason2119.github.io) ｜ 3384144812@qq.com ｜ 15620055694
 
 ---
 
